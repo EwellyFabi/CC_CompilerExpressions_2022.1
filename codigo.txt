@@ -1,0 +1,9 @@
+int f#ibo(int n#um){
+	if(n#um = 1 or n#um=0){
+		return n#um;
+	}
+}
+
+int a#we1 = f#ibo(5);
+a#we1 = 2;
+(r#esult = 2)=4;

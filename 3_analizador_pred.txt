@@ -1,0 +1,9 @@
+f#ibo		ID
+n#um		ID
+n#um		ID
+n#um		ID
+n#um		ID
+a#we1		ID
+f#ibo		ID
+a#we1		ID
+r#esult		ID
